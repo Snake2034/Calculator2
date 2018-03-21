@@ -1,0 +1,9 @@
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csprojResolveAssemblyReference.cache
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+O:\Tafe Work\Diploma\C#\Week 6\Solution1\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb
